@@ -1,0 +1,11 @@
+- commits:
+    - subject: policy-bot arm64 package
+      hash: ab5a80b2ae0da1a0da555f0aab89706e19c97553
+      body: ""
+      footer:
+        change-type: patch
+      author: ab77
+      nested: []
+  version: 0.0.2
+  title: ""
+  date: 2023-04-17T22:09:42.529Z
