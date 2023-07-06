@@ -3,9 +3,9 @@ FROM alpine:latest AS build
 
 RUN apk add --no-cache github-cli
 
-# https://github.com/palantir/policy-bot/actions/runs/4601065610
-# https://github.com/palantir/policy-bot/suites/12002031665/artifacts/630587667
-ARG GH_RUN_ID=4601065610
+# https://github.com/palantir/policy-bot/actions/runs/4997327086
+# https://github.com/palantir/policy-bot/suites/12944825591/artifacts/699636686
+ARG GH_RUN_ID=4997327086
 
 RUN --mount=type=secret,id=GITHUB_TOKEN \
     GH_TOKEN=$(cat < /run/secrets/GITHUB_TOKEN) gh run download -R palantir/policy-bot ${GH_RUN_ID} \
