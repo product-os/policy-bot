@@ -1,4 +1,15 @@
 - commits:
+    - subject: Update to v1.29.0
+      hash: 8efd5077536ba0c2fa7cf62b6976e56e1dbcb76d
+      body: ""
+      footer:
+        change-type: patch
+      author: Anton Belodedenko
+      nested: []
+  version: 0.0.3
+  title: ""
+  date: 2023-07-06T23:24:18.696Z
+- commits:
     - subject: policy-bot arm64 package
       hash: ab5a80b2ae0da1a0da555f0aab89706e19c97553
       body: ""
