@@ -1,4 +1,19 @@
 - commits:
+    - subject: "Dockerfile: Update policybot to latest snapshot to fix GH graphql
+        changes"
+      hash: c97376cc70b52a8ab8384db6fcb8f6d01ae240c0
+      body: ""
+      footer:
+        Change-type: patch
+        change-type: patch
+        See: https://docs.github.com/en/graphql/overview/breaking-changes#changes-scheduled-for-2023-07-01
+        see: https://docs.github.com/en/graphql/overview/breaking-changes#changes-scheduled-for-2023-07-01
+      author: Thodoris Greasidis
+      nested: []
+  version: 0.0.4
+  title: ""
+  date: 2023-07-08T01:20:28.396Z
+- commits:
     - subject: Update to v1.29.0
       hash: 8efd5077536ba0c2fa7cf62b6976e56e1dbcb76d
       body: ""
