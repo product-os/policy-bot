@@ -1,4 +1,18 @@
 - commits:
+    - subject: Update to v1.31.0
+      hash: ef19b2639e7bea4d8779a26655e7651f38330bff
+      body: ""
+      footer:
+        Resolves: https://github.com/palantir/policy-bot/issues/598
+        resolves: https://github.com/palantir/policy-bot/issues/598
+        Change-type: patch
+        change-type: patch
+      author: Kyle Harding
+      nested: []
+  version: 0.0.5
+  title: ""
+  date: 2023-07-31T16:00:23.344Z
+- commits:
     - subject: "Dockerfile: Update policybot to latest snapshot to fix GH graphql
         changes"
       hash: c97376cc70b52a8ab8384db6fcb8f6d01ae240c0
