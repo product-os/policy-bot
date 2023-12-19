@@ -1,6 +1,5 @@
 ---
 name: Flowzone
-
 on:
   pull_request:
     types: [opened, synchronize, closed]
@@ -8,7 +7,6 @@ on:
   pull_request_target:
     types: [opened, synchronize, closed]
     branches: [main, master]
-
 jobs:
   flowzone:
     name: Flowzone
@@ -24,14 +22,13 @@ jobs:
       )
     secrets: inherit
     with:
-      repo_config: true
-      repo_description: "temporary policy-bot ARM64 packaging scaffold"
-      repo_homepage: "https://github.com/palantir/policy-bot"
       # FIXME: remove when https://github.com/palantir/policy-bot/issues/558 ships
       docker_images: |
         ghcr.io/product-os/policy-bot
       docker_runs_on: >
         {
+
           "linux/amd64": ["ubuntu-22.04"],
           "linux/arm64": ["self-hosted","distro:jammy","platform:linux/arm64"]
         }
+
