@@ -1,4 +1,22 @@
 - commits:
+    - subject: Build policy-bot from source
+      hash: f6ba4948b3c0a8ffc551656ee1d3152f3deac76c
+      body: |
+        The actions run we were depending on to download
+        the arm64 distribution files has expired, so instead
+        we can build from source using the upstream Dockerfile
+        and GitHub workflows as examples.
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Kyle Harding <kyle@balena.io>
+        signed-off-by: Kyle Harding <kyle@balena.io>
+      author: Kyle Harding
+      nested: []
+  version: 0.0.6
+  title: ""
+  date: 2023-12-20T15:42:03.251Z
+- commits:
     - subject: Update to v1.31.0
       hash: ef19b2639e7bea4d8779a26655e7651f38330bff
       body: ""
