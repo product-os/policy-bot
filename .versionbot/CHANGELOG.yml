@@ -1,4 +1,17 @@
 - commits:
+    - subject: Update src digest to 2396032
+      hash: 1f6b3b4e0b8d6e653115f76953127d07c1b80a75
+      body: |
+        Update src
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Self-hosted Renovate Bot
+      nested: []
+  version: 0.0.8
+  title: ""
+  date: 2024-04-08T18:06:48.533Z
+- commits:
     - subject: Remove repo config from flowzone.yml
       hash: b7b61acf47e0e05a65b9ea3930cd9e9b8cc1e6a0
       body: |
