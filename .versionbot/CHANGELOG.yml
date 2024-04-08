@@ -1,4 +1,17 @@
 - commits:
+    - subject: Update golang Docker tag to v1.22.2
+      hash: 4348ef71bf90c145353b9136a9a26da7067ed265
+      body: |
+        Update golang from 1.21.5 to 1.22.2
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Self-hosted Renovate Bot
+      nested: []
+  version: 0.0.10
+  title: ""
+  date: 2024-04-08T20:03:38.514Z
+- commits:
     - subject: Update dependency palantir/policy-bot to v1.34.1
       hash: 09e16847fc7b39ae6437ede17d376685b58d6284
       body: |
