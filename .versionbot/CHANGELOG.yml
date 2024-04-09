@@ -1,4 +1,17 @@
 - commits:
+    - subject: Update src digest to c6fa07d
+      hash: 4e61fc9d28478a6f114c2d953e0bd0a54cc242d4
+      body: |
+        Update src
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Self-hosted Renovate Bot
+      nested: []
+  version: 0.0.11
+  title: ""
+  date: 2024-04-09T04:02:52.878Z
+- commits:
     - subject: Update golang Docker tag to v1.22.2
       hash: 4348ef71bf90c145353b9136a9a26da7067ed265
       body: |
