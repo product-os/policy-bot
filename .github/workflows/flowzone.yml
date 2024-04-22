@@ -23,12 +23,4 @@ jobs:
     secrets: inherit
     with:
       # FIXME: remove when https://github.com/palantir/policy-bot/issues/558 ships
-      docker_images: |
-        ghcr.io/product-os/policy-bot
-      docker_runs_on: >
-        {
-
-          "linux/amd64": ["ubuntu-22.04"],
-          "linux/arm64": ["self-hosted","distro:jammy","platform:linux/arm64"]
-        }
-
+      docker_images: ghcr.io/product-os/policy-bot
