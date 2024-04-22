@@ -1,4 +1,19 @@
 - commits:
+    - subject: Use free GitHub hosted runners now that this repo is public
+      hash: 0cd23a3ada72fd732e2540c817f30ca348e1c6d7
+      body: |
+        Flowzone will use QEMU for arm64 builds.
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Kyle Harding <kyle@balena.io>
+        signed-off-by: Kyle Harding <kyle@balena.io>
+      author: Kyle Harding
+      nested: []
+  version: 0.0.12
+  title: ""
+  date: 2024-04-22T16:47:31.598Z
+- commits:
     - subject: Update src digest to c6fa07d
       hash: 4e61fc9d28478a6f114c2d953e0bd0a54cc242d4
       body: |
