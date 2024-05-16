@@ -1,4 +1,17 @@
 - commits:
+    - subject: Update dependency palantir/policy-bot to v1.35.0
+      hash: 6af2bdb3f43938f0c634c339b64d0f08afd2f860
+      body: |
+        Update palantir/policy-bot from 1.34.1 to 1.35.0
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Self-hosted Renovate Bot
+      nested: []
+  version: 0.0.23
+  title: ""
+  date: 2024-05-16T23:06:18.696Z
+- commits:
     - subject: Update src digest to f640d71
       hash: 00182d089a8c50bc3666e40b893aeec4900b33d6
       body: |
