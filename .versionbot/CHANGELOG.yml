@@ -1,4 +1,17 @@
 - commits:
+    - subject: Update alpine Docker tag to v3.20
+      hash: 85f1fe4fd5b42bde8522c3b4bb16284d74817c9c
+      body: |
+        Update alpine from 3.19 to 3.20
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Self-hosted Renovate Bot
+      nested: []
+  version: 0.0.24
+  title: ""
+  date: 2024-05-22T19:06:37.049Z
+- commits:
     - subject: Update dependency palantir/policy-bot to v1.35.0
       hash: 6af2bdb3f43938f0c634c339b64d0f08afd2f860
       body: |
