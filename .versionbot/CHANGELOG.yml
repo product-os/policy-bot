@@ -1,4 +1,17 @@
 - commits:
+    - subject: Update src digest to 942da58
+      hash: 0531aa06810b242a7ed9bf15ffa2425ae2d6ef8e
+      body: |
+        Update src
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Self-hosted Renovate Bot
+      nested: []
+  version: 0.0.54
+  title: ""
+  date: 2024-08-06T21:08:50.530Z
+- commits:
     - subject: Update src digest to d4b9aa4
       hash: af18624895396a7acb2cb96a377e9bff5bb50afa
       body: |
