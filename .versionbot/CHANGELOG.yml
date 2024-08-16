@@ -1,4 +1,17 @@
 - commits:
+    - subject: Update dependency palantir/policy-bot to v1.36.0
+      hash: c1e7b5bc3cc83de9dccb8b30a87543b1472c15d5
+      body: |
+        Update palantir/policy-bot from 1.35.0 to 1.36.0
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Self-hosted Renovate Bot
+      nested: []
+  version: 0.0.63
+  title: ""
+  date: 2024-08-16T20:13:16.841Z
+- commits:
     - subject: Update golang Docker tag to v1.23.0
       hash: 5731829e5b55eca4d5924853a875360294c0ffda
       body: |
