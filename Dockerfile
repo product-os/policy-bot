@@ -1,7 +1,7 @@
 # FIXME: https://github.com/palantir/policy-bot/issues/558
 
 # https://github.com/palantir/policy-bot/blob/develop/.palantir/go-version
-FROM golang:1.23.0-alpine3.19 AS build
+FROM golang:1.23.1-alpine3.19 AS build
 
 WORKDIR /src
 
