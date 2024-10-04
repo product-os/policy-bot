@@ -1,4 +1,17 @@
 - commits:
+    - subject: Update src digest to be7327e
+      hash: 1f27d2c3200f41744b32a9ce788a50b0d07d111f
+      body: |
+        Update src
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Self-hosted Renovate Bot
+      nested: []
+  version: 0.0.84
+  title: ""
+  date: 2024-10-04T17:17:27.099Z
+- commits:
     - subject: Update dependency palantir/policy-bot to v1.36.1
       hash: dd6a9f87886af4a53eab4c31fc864bd7dc05bd57
       body: |
