@@ -13,7 +13,7 @@ SHELL ["/bin/ash", "-eo", "pipefail", "-c"]
 ENV CGO_ENABLED=0
 
 # renovate: datasource=github-releases depName=palantir/policy-bot
-ARG POLICY_BOT_VERSION=v1.36.1
+ARG POLICY_BOT_VERSION=v1.36.2
 
 RUN git clone --depth 1 -c advice.detachedHead=false \
 	--branch "$POLICY_BOT_VERSION" https://github.com/palantir/policy-bot.git .
