@@ -1,4 +1,17 @@
 - commits:
+    - subject: Update src digest to 2656b56
+      hash: f25029ffcdefa1fd4686075deb1fb8e2fe525d9d
+      body: |
+        Update src
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: balena-renovate[bot]
+      nested: []
+  version: 0.0.89
+  title: ""
+  date: 2024-11-01T22:12:38.512Z
+- commits:
     - subject: Update dependency palantir/policy-bot to v1.36.2
       hash: c88935fc50db869a06cdb99444fbc98205b02a29
       body: |
