@@ -1,4 +1,17 @@
 - commits:
+    - subject: Update src digest to 956ee9e
+      hash: 537631ce5ed26ea370aaea5c664ca8e56c0154ac
+      body: |
+        Update src
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: balena-renovate[bot]
+      nested: []
+  version: 0.0.95
+  title: ""
+  date: 2024-11-08T01:32:27.177Z
+- commits:
     - subject: Update golang Docker tag to v1.23.3
       hash: 01604acd8dd470e6872f63e73f359c98ff171dff
       body: |
