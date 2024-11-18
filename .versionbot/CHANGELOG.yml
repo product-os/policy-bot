@@ -1,4 +1,15 @@
 - commits:
+    - subject: Explicitly set GH_TOKEN permissions
+      hash: ca74f37bade136d98b8a1d56d0d304a3756d4cf3
+      body: ""
+      footer:
+        change-type: patch
+      author: Anton Belodedenko
+      nested: []
+  version: 0.0.98
+  title: ""
+  date: 2024-11-18T20:17:17.911Z
+- commits:
     - subject: Update src digest to 3987077
       hash: 2a2b1042d3fbc1deed854ae8dfcdac9ce4a8fe65
       body: |
