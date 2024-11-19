@@ -1,4 +1,17 @@
 - commits:
+    - subject: Update src digest to 8e8a129
+      hash: 24181184904b083a0bd831d6c6de75712a5fd13a
+      body: |
+        Update src
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: balena-renovate[bot]
+      nested: []
+  version: 0.0.99
+  title: ""
+  date: 2024-11-19T20:12:12.708Z
+- commits:
     - subject: Explicitly set GH_TOKEN permissions
       hash: ca74f37bade136d98b8a1d56d0d304a3756d4cf3
       body: ""
