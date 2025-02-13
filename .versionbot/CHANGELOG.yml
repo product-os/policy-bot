@@ -1,4 +1,17 @@
 - commits:
+    - subject: Update dependency palantir/policy-bot to v1.36.4
+      hash: 3ab555df4700ec88516140d699283c5746af74eb
+      body: |
+        Update palantir/policy-bot from 1.36.3 to 1.36.4
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: balena-renovate[bot]
+      nested: []
+  version: 0.0.127
+  title: ""
+  date: 2025-02-13T18:24:00.510Z
+- commits:
     - subject: Update src digest to 03a49f6
       hash: c0326db1c7e89f4bcc57ed07289ca46556ccbab7
       body: |
