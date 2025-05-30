@@ -34,7 +34,7 @@ RUN ./godelw dist
 
 # https://hub.docker.com/r/palantirtechnologies/policy-bot
 # https://github.com/palantir/policy-bot/blob/develop/docker/Dockerfile
-FROM alpine:3.21
+FROM alpine:3.22
 
 WORKDIR /policy-bot
 
