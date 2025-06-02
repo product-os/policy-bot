@@ -1,4 +1,17 @@
 - commits:
+    - subject: Update src digest to 1e1f0c6
+      hash: 0a8bda7ba336e66caff199d24ecb4e7c61bdf88e
+      body: |
+        Update src
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: balena-renovate[bot]
+      nested: []
+  version: 0.0.165
+  title: ""
+  date: 2025-06-02T11:11:35.855Z
+- commits:
     - subject: Update alpine Docker tag to v3.22
       hash: f4cc6102d41226412787523cc40c15f902019442
       body: |
