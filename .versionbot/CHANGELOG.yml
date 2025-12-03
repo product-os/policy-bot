@@ -1,4 +1,17 @@
 - commits:
+    - subject: Update alpine Docker tag to v3.23
+      hash: b3b7a61b1d19c7a5374fcdcc199d50d96c208a3a
+      body: |
+        Update alpine from 3.22 to 3.23
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: balena-renovate[bot]
+      nested: []
+  version: 0.0.270
+  title: ""
+  date: 2025-12-03T20:13:26.742Z
+- commits:
     - subject: Update src digest to 75ccb5a
       hash: ab7869cc4cc2bb3c7f2ea9dc9d01e1da843b6b54
       body: |
