@@ -1,4 +1,17 @@
 - commits:
+    - subject: Update src digest to e2a475e
+      hash: 005f5b4c14bc6fb935273d6720028918dbe75044
+      body: |
+        Update src
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: balena-renovate[bot]
+      nested: []
+  version: 0.0.336
+  title: ""
+  date: 2026-03-26T17:56:25.939Z
+- commits:
     - subject: Revert flowzone pinning to master
       hash: 31e05f6deaa18cc62d35a57a08222c62aa4d3ea6
       body: ""
