@@ -1,7 +1,7 @@
 # FIXME: https://github.com/palantir/policy-bot/issues/558
 
 # https://github.com/palantir/policy-bot/blob/develop/.palantir/go-version
-FROM golang:1.23.4-alpine3.19 AS build
+FROM golang:1.23.4-alpine3.19@sha256:5f3336882ad15d10ac1b59fbaba7cb84c35d4623774198b36ae60edeba45fd84 AS build
 
 WORKDIR /src
 
@@ -34,7 +34,7 @@ RUN ./godelw dist
 
 # https://hub.docker.com/r/palantirtechnologies/policy-bot
 # https://github.com/palantir/policy-bot/blob/develop/docker/Dockerfile
-FROM alpine:3.23
+FROM alpine:3.23@sha256:5b10f432ef3da1b8d4c7eb6c487f2f5a8f096bc91145e68878dd4a5019afde11
 
 WORKDIR /policy-bot
 
