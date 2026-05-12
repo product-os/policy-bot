@@ -1,4 +1,17 @@
 - commits:
+    - subject: Update src digest to 140115b
+      hash: 17d13fe0abd4bced3fd45ec56160a87e50d17699
+      body: |
+        Update src
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: balena-renovate[bot]
+      nested: []
+  version: 0.0.356
+  title: ""
+  date: 2026-05-12T23:59:10.324Z
+- commits:
     - subject: Pin dependencies
       hash: 73a16b1f463cf7c4adf356ea4883606a4a6a4b66
       body: |
