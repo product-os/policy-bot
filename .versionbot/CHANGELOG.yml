@@ -1,4 +1,17 @@
 - commits:
+    - subject: Pin dependencies
+      hash: 73a16b1f463cf7c4adf356ea4883606a4a6a4b66
+      body: |
+        Update alpine
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: balena-renovate[bot]
+      nested: []
+  version: 0.0.355
+  title: ""
+  date: 2026-05-12T17:26:59.825Z
+- commits:
     - subject: Update src digest to b1ac6fa
       hash: b41d2f0dccc035a950a8e07c8434635664729b07
       body: |
