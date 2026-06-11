@@ -1,4 +1,17 @@
 - commits:
+    - subject: Update src digest to 2c0d7bc
+      hash: 921bca35762095f4e592365a60637d33e7deef60
+      body: |
+        Update src
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: balena-renovate[bot]
+      nested: []
+  version: 0.0.373
+  title: ""
+  date: 2026-06-11T19:34:21.197Z
+- commits:
     - subject: Update alpine:3.24 Docker digest to a2d49ea
       hash: 360a4d13da2cdfe70428d7ef54917995c9faeb4b
       body: |
