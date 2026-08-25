@@ -1,4 +1,17 @@
 - commits:
+    - subject: Update src digest to e2674bd
+      hash: 690b3d04d4449b4f7e96ca666cd1f1effccfbf3f
+      body: |
+        Update src
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: balena-renovate[bot]
+      nested: []
+  version: 0.0.431
+  title: ""
+  date: 2026-08-25T07:50:52.107Z
+- commits:
     - subject: Update dependency flowzonify to v0.4.0
       hash: 243c62dd28b954944214846137339013b21b7f4c
       body: |
