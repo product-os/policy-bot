@@ -1,4 +1,17 @@
 - commits:
+    - subject: Update src digest to 22a58a5
+      hash: c29d623f04b2aaec2378b8c95a87e548425f1671
+      body: |
+        Update src
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: balena-renovate[bot]
+      nested: []
+  version: 0.0.437
+  title: ""
+  date: 2026-08-31T18:48:57.899Z
+- commits:
     - subject: Update src digest to 97c06f8
       hash: f8e6e0a370a211cd29005bd5f9a610f7cdb6a399
       body: |
